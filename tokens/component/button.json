@@ -13,7 +13,7 @@
       },
       "fontWeight": {
         "default": {
-          "value": "{app.fontWeight.control.text.default}",
+          "value": "{app.fontWeight.control.text.strong}",
           "type": "fontWeights"
         },
         "symbol": {

@@ -2133,13 +2133,13 @@
     "textCase": {
       "control": {
         "default": {
-          "value": "none",
+          "value": "uppercase",
           "type": "textCase"
         }
       },
       "label": {
         "default": {
-          "value": "none",
+          "value": "uppercase",
           "type": "textCase"
         }
       },
