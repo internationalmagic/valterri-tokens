@@ -42,7 +42,7 @@
             "type": "fontSizes"
           },
           "sm": {
-            "value": "{component.button.fontSize.default.md} - {component.button.config.text.step}",
+            "value": "0.8125rem",
             "type": "fontSizes"
           },
           "md": {

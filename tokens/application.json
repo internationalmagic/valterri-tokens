@@ -1547,7 +1547,7 @@
     "fontFamily": {
       "control": {
         "text": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "symbol": {
@@ -1561,7 +1561,7 @@
       },
       "label": {
         "text": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "symbol": {
@@ -1575,31 +1575,31 @@
       },
       "surface": {
         "display": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "title": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "callout": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "subtitle": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "caption": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "footnote": {
-          "value": "Mirage",
+          "value": "Index",
           "type": "fontFamilies"
         },
         "code": {
@@ -1958,7 +1958,7 @@
         },
         "title": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} * 1.125",
+            "value": "0.8125rem",
             "type": "fontSizes"
           },
           "md": {
@@ -1986,7 +1986,7 @@
         },
         "subtitle": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} * 1.125",
+            "value": "0.8125rem",
             "type": "fontSizes"
           },
           "md": {
@@ -2000,7 +2000,7 @@
         },
         "body": {
           "sm": {
-            "value": "{app.fontSize.surface.body.md} - 0.125rem",
+            "value": "0.8125rem",
             "type": "fontSizes"
           },
           "md": {
@@ -2149,11 +2149,11 @@
           "type": "textCase"
         },
         "title": {
-          "value": "none",
+          "value": "uppercase",
           "type": "textCase"
         },
         "subtitle": {
-          "value": "none",
+          "value": "uppercase",
           "type": "textCase"
         },
         "callout": {
