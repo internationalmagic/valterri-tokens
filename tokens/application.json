@@ -1724,7 +1724,7 @@
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.medium}",
+            "value": "{app.config.fontWeight.black}",
             "type": "fontWeights"
           }
         },
