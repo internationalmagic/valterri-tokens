@@ -2161,7 +2161,7 @@
           "type": "textCase"
         },
         "body": {
-          "value": "none",
+          "value": "uppercase",
           "type": "textCase"
         },
         "caption": {
