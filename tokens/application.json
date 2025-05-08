@@ -1620,7 +1620,7 @@
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.heavy}",
+            "value": "{app.config.fontWeight.black}",
             "type": "fontWeights"
           }
         },
@@ -1652,7 +1652,7 @@
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.heavy}",
+            "value": "{app.config.fontWeight.black}",
             "type": "fontWeights"
           }
         },
@@ -1694,7 +1694,7 @@
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.heavy}",
+            "value": "{app.config.fontWeight.black}",
             "type": "fontWeights"
           }
         },
@@ -1714,7 +1714,7 @@
             "type": "fontWeights"
           },
           "strong": {
-            "value": "{app.config.fontWeight.heavy}",
+            "value": "{app.config.fontWeight.black}",
             "type": "fontWeights"
           }
         },
@@ -2409,7 +2409,7 @@
           "type": "other"
         },
         "black": {
-          "value": "Black",
+          "value": "700",
           "type": "other"
         }
       },
